@@ -12,7 +12,7 @@ It also provides additional features such as the ability to choose the color of 
 
 To install the Navcolor plugin, follow these steps:
 
-1. Copy the `navcolor64.dll` file to the IDA plugins folder.
+1. Copy the `navcolor64.(dll|dylib)` file to the IDA plugins folder.
 2. Launch IDA Pro.
 3. Navigate to the `Edit/Plugins` menu.
 4. Select the `Show function color in navigation band` option to toggle the plugin on or off. The plugin is on by default.
